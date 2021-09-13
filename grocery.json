@@ -1,0 +1,82 @@
+[
+    {
+        "SNo": 1,
+        "Name": "Rice",
+        "Quantity": 10,
+        "Unit": "kg",
+        "Department": "Grocery",
+        "Notes": "Basmati rice"
+    },
+    {
+        "SNo": 2,
+        "Name": "Egg",
+        "Quantity": 10,
+        "Unit": "nos",
+        "Department": "Egg",
+        "Notes": "Chicken egg"
+    },
+    {
+        "SNo": 3,
+        "Name": "Oil",
+        "Quantity": 2,
+        "Unit": "L",
+        "Department": "oil",
+        "Notes": "Sunflower oil"
+    },
+    {
+        "SNo": 4,
+        "Name": "Milk",
+        "Quantity":500,
+        "Unit": "ml",
+        "Department": " Grocery",
+        "Notes": "Milma"
+    },
+    {
+        "SNo": 5,
+        "Name": "Sugar",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Condiments",
+        "Notes": "None"
+    },
+    {
+        "SNo": 6,
+        "Name": "Apple",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "Red"
+    },
+    {
+        "SNo": 7,
+        "Name": "Mango",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "Malgova"
+    },
+    {
+        "SNo": 8,
+        "Name": "Onion",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "Red onion"
+    },
+    {
+        "SNo": 9,
+        "Name": "Carrot",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "Danvers"
+    },
+    {
+        "SNo": 10,
+        "Name": "Cabbage",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "White cabbage"
+    }
+]
